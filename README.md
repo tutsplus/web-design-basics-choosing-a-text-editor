@@ -8,3 +8,5 @@ In this course you'll learn how to choose the best text editor for you. You'll l
 The source files represent a chart that will help you decide which text editor is best for you.
 
 **Available on Tuts+ July 2015**
+
+![image](https://raw.githubusercontent.com/tutsplus/web-design-basics-choosing-a-text-editor/master/Text-Editor-Flowchart-small.jpg)
